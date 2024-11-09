@@ -1,4 +1,4 @@
 # ParkSmart
-Autonomous Parking System
+Autonomous Parking System Using Reinforcement Learning
 <br>
-Using Reinforcement learning
+And Machine Learning
